@@ -1,68 +1,74 @@
-<h2 align="left">Hi 👋! My name is Gulam Ashraf.</h2>
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="30" alt="bitbucket logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="30" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
+<h1 align="center">
+   
+  Hi 👋, I'm Gulam Ashraf 
+  
+</h1>
 
-###
+<p align="center">
+  💻 Passionate Coder & Problem Solver <br/>
+  Turning Ideas into Code 🚀
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashraf-g&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashraf-g&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=ffb7c5&center=true&vCenter=true&width=480&lines=Exploring+Full+Stack+Web+Development;MERN+%26+JavaScript+Enthusiast" alt="typing animation"/>
+</p>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ashraf-g/count.svg?"  />
-</div>
+---
 
-###
+## 🛠 Tech Stack
+
+ <p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,react,html,css,python,bootstrap,bitbucket,docker,express,git,github,jenkins,laravel,linux,materialui,mongodb,mysql,nodejs,npm,postgresql,tailwind,vim,vscode" alt="all tech stack icons" />
+</p>
+
+
+---
+
+## 👩‍💻 About Me
+
+
+- 🎓 Computer Science Enthusiast  
+- 👨‍💻 Full Stack Dev | Open Source Contributor  
+- 🧠 Love to learn and build cool projects with purpose  
+- 🌍 Currently learning DevOps & Backend Engineering  
+- 🛠️ Open for collaborations and freelance projects  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashraf-g&show_icons=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=f8e4ff&bg_color=B168C5" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashraf-g&hide_border=true&background=B168C5&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=f8e4ff&dates=f8e4ff" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashraf-g&layout=compact&hide_border=true&title_color=ffffff&text_color=f8e4ff&bg_color=B168C5" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashraf-g&label=Profile%20views&color=B168C5&style=flat-square" alt="Profile views" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:ashrafgulam2020@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+ &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/gulam-ashraf-99633227b" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://gulam-ashraf.netlify.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <!-- Add LinkedIn or other socials here -->
+</p>
+
+---
+
+<p align="center"><em>“Think it. Code it. Ship it." 🚀 </em></p>
