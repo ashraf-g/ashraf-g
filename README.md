@@ -46,6 +46,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashraf-g&layout=compact&hide_border=true&title_color=ffffff&text_color=f8e4ff&bg_color=B168C5" alt="Top Languages" />
 </p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ashraf-g&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ashraf-g&label=Profile%20views&color=B168C5&style=flat-square" alt="Profile views" />
 </p>
