@@ -21,7 +21,7 @@
 ## 🛠 Tech Stack
 
  <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,react,html,css,python,bootstrap,bitbucket,docker,express,git,github,jenkins,laravel,linux,materialui,mongodb,mysql,nodejs,npm,postgresql,tailwind,vim,vscode,c,cpp,java,php" alt="all tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=javascript,react,html,css,python,bootstrap,bitbucket,docker,express,git,github,jenkins,laravel,linux,materialui,mongodb,mysql,nodejs,npm,postgresql,tailwind,vim,vscode,c,cpp,java,php,django" alt="all tech stack icons" />
 </p>
 
 
